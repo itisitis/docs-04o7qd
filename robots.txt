@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-xbjebe.akakq.asia/sitemap.xml
